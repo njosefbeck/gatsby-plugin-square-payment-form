@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-square-payment-form",
   "description": "Gatsby plugin that adds Square's Payment Form JS file to every page of your site",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Nathan Beck <njosefbeck@gmail.com>",
   "repository": {
     "type": "git",
