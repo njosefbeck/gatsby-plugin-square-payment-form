@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Unreleased
 - None
 
-## [1.0.3](https://github.com/njosefbeck/gatsby-plugin-square-payment-form/compare/v1.0.1...v1.0.3) - 2019-07-26
+## [1.0.2](https://github.com/njosefbeck/gatsby-plugin-square-payment-form/compare/v1.0.1...v1.0.2) - 2019-07-26
 ### Changed
 - Update eslint from [5.16.0 to 6.1.0](https://github.com/eslint/eslint/releases).
 - Update eslint-config-prettier from [4.3.0 to 6.0.0](https://github.com/prettier/eslint-config-prettier/blob/master/CHANGELOG.md).
